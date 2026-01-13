@@ -9,6 +9,8 @@
         <module name="02_Loose_Coupling" />
         <module name="03_Dependancy_Injection" />
         <module name="01_Tight_Coupling" />
+        <module name="04_Property_Injection" />
+        <module name="05_Constructor_Injection" />
       </profile>
     </annotationProcessing>
   </component>
