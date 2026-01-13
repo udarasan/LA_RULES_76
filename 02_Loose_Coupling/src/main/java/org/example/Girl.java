@@ -1,4 +1,8 @@
 package org.example;
 
-public class Girl {
+public class Girl implements Agreement {
+    @Override
+    public void chat() {
+        System.out.println("chat...");
+    }
 }
